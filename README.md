@@ -4,7 +4,7 @@
 
 I tried to build with docker but failed. I found there are no related issues so I guess maybe there is some compatibility problem for building with docker on Windows. I just created an issue on [github page](https://github.com/PecanProject/pecan/issues/2554).
 
-Since you send me the output, I didn't try further to build it in virtual machine. I'll try it later.
+Thanks to the model output sent by Istem, I didn't try further to build it in virtual machine. I'll try it later.
 
 
 
@@ -28,7 +28,7 @@ Some points including:
 
    In web platform, I found the image filtered with our point actually even didn't cover that point. Right now I haven't found information about this problem, and due to slightly change longitude from -105.55 to -105.70  could cover our point, and also cover more of the forest, I would discuss these two situations separately at the end.
 
-   <img src=".\img\coordiante.png" alt="coordinate" style="zoom:50%;" />
+   <img src=".\img\coordiante.png" alt="coordinate" style="zoom:40%;" />
 
 4. **Reuse**
 
