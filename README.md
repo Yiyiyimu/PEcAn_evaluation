@@ -50,7 +50,7 @@ Function makeplot make plot with the output of above functions, df_LVI and df_ND
 
 From the graph, we could find clear assimilation between LAI from model and NDVI from GEE on annual change. One major difference is LAI shows a higher vegetation index on Autumn 2004 than other years, while NDVI stays the same.
 
- ![Single Comparison](.\img\50.png)
+ ![50](.\img\50.png)
 
 The setup of the above graph is 50% threshold for cloud coverage, and the coordinate I slightly change to better cover the point and the forest. 
 
@@ -60,7 +60,7 @@ The first one is the higher cloud coverage threshold will not harm the result to
 
 Another one is the result of slightly changed coordinate, shows more stable change locally than the original one. I think one intuitive reason could be since plants take larger percentage of the whole area, it should have more stable result on parameters evaluating plants.
 
-![Comparison](.\img\Comparison.png)
+![Comparison](.\img\comparison.png)
 
 It's a great task I should say, although I haven't work much on PEcAn, at least I'm in great favor for GEE right now. I think nobody would dislike changing the map - where you actually live in - in the way you want it to be. And also, as a computer science and environmental science student myself, my career goal is to build better software for environmental researchers. I really appreciate the possible chance for me to work with people who have the same goal. I believe I got the basic ideas for what I possibly would do in the summer. I just wondered how should I arrange the timeline? Should I split time for building several links like this or do you have some advice?
 
